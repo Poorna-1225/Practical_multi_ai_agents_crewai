@@ -8,6 +8,8 @@ Man power doing all this work takes lots of time but automating all of this work
 
 The Summary working is below. To understand in more depth please go throug the code.
 
+
+```
 project Planning --> uses Project Planner Agent ---> works on Task break down
-Estimation Analysis --> uses Estimation Analyst Agent ---> Time Estimation
-Allocation Strategy --> Allocation Strategit ---> Resource Allocation.
+Estimation Analysis --> uses Estimation Analyst Agent --->works on  Time Estimation task
+Allocation Strategy --> Allocation Strategit ---> Resource Allocation.```

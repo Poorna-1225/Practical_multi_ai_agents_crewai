@@ -11,3 +11,13 @@ The Summary working is below. To understand in more depth please go throug the c
 project Planning --> uses Project Planner Agent ---> works on Task break down
 Estimation Analysis --> uses Estimation Analyst Agent ---> Time Estimation
 Allocation Strategy --> Allocation Strategit ---> Resource Allocation.
+
+
+create venv using
+``` conda create -n venv_name python=3.10.12 -y
+
+conda activate venv_name
+
+pip install -r requirements.txt
+```
+
